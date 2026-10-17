@@ -1,0 +1,8 @@
+{
+  "appId": "com.shubham.kharcha",
+  "appName": "Kharcha",
+  "webDir": "www",
+  "android": {
+    "adjustMarginsForEdgeToEdge": "auto"
+  }
+}
